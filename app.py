@@ -246,3 +246,5 @@ if __name__ == "__main__":
     app.run(debug=True)
     
 # Cambio realizado en la rama personal
+
+# Actualización local para publicar en GitHub
