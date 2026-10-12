@@ -1,3 +1,4 @@
+# Revisión de código: aporte de Andrea Correa (ancorreama)
 import dash
 from dash import dcc
 from dash import html
